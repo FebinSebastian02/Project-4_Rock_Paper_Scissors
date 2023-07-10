@@ -1,2 +1,8 @@
 v1.0.0
 
+A program was created for playing rock, paper, scissors game with:-
+	- a function defined and called in which all the logic is written
+	- a list to collect the actions that computer needs to do during its turn
+	- a while loop to play the game continuously until the user needed to quit
+	- if else conditions to determine the score of both user and computer
+
